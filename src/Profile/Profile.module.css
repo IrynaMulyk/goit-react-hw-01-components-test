@@ -1,0 +1,35 @@
+.profile {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 40px 0;
+  background-color: rgb(232, 232, 232);
+  border-radius: 8px;
+}
+.profile .description {
+  margin: 0 auto;
+  text-align: center;
+}
+.profile .avatar {
+  width: 350px;
+}
+
+.profile .name {
+  font-size: 24px;
+  font-weight: 600;
+  display: block;
+}
+.stats {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+.stats li {
+  text-align: center;
+  margin: 14px auto;
+}
+.label {
+  display: block;
+  font-weight: 600;
+}

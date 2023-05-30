@@ -1,0 +1,14 @@
+.transactionHistory {
+  padding: 40px 20px;
+  background-color: rgb(232, 232, 232);
+  border-radius: 8px;
+}
+.transactionHistory thead {
+  font-size: 18px;
+}
+.transactionHistory thead tr th {
+  padding: 14px 0;
+}
+.transactionHistory td {
+  padding: 8px 0;
+}

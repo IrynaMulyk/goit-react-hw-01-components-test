@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 0 150px;
+}
