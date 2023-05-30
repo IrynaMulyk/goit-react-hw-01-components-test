@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IrynaMulyk/goit-react-hw-01-components/static/css/main.5874a5dd.css",
+    "main.js": "/IrynaMulyk/goit-react-hw-01-components/static/js/main.8f10a78a.js",
+    "index.html": "/IrynaMulyk/goit-react-hw-01-components/index.html",
+    "main.5874a5dd.css.map": "/IrynaMulyk/goit-react-hw-01-components/static/css/main.5874a5dd.css.map",
+    "main.8f10a78a.js.map": "/IrynaMulyk/goit-react-hw-01-components/static/js/main.8f10a78a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5874a5dd.css",
+    "static/js/main.8f10a78a.js"
+  ]
+}
